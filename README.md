@@ -35,9 +35,12 @@ Run the project
 Open index.html in your browser.
 
 
-🌟 Future Improvements
+🌟 Future Improvements:
+
 Add sound effects
+
 Add high score feature
+
 Add difficulty modes
 Mobile-friendly controls
 Add animations
