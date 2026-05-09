@@ -27,7 +27,7 @@ Simon-Says-Game/
 └── README.md
 ▶️ Run Locally
 Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https:www..............
 Open the project folder
 cd your-repo-name
 Run the project
